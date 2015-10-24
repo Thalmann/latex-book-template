@@ -1,0 +1,64 @@
+			    ━━━━━━━━━━━━━━━━
+			     SIMPLECOMMANDS
+			    ━━━━━━━━━━━━━━━━
+
+
+Table of Contents
+─────────────────
+
+1 Different Headers
+2 Text formatting
+3 Quotes
+4 Lists
+5 Links
+6 Comment
+7 Todo notes
+
+
+1 Different Headers
+═══════════════════
+
+  • \chapter
+  • \section
+  • \subsection
+  • \subsubsection
+  • \paragraph
+
+
+2 Text formatting
+═════════════════
+
+  • Bold: \textbf{}
+  • Italic: \textit{}
+
+
+3 Quotes
+════════
+
+  • \begin{quote}{}\end{quote}
+
+
+4 Lists
+═══════
+
+  • Bullet points: \begin{itemzie}{\item A}\end{itemize}
+  • Number points: \begin{enumerate}{\item A}\end{enumerate}
+
+
+5 Links
+═══════
+
+  • Insert link: \url{www.google.com}
+
+
+6 Comment
+═════════
+
+  • Everything on a line followed by a % is a comment
+  • % This is a comment
+
+
+7 Todo notes
+════════════
+
+  • \todo{}
