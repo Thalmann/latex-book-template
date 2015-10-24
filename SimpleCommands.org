@@ -1,23 +1,23 @@
 * Different Headers
-** \chapter
-** \section
-** \subsection
-** \subsubsection
-** \paragraph
+- \chapter
+- \section
+- \subsection
+- \subsubsection
+- \paragraph
 * Text formatting
-** Bold: \textbf{}
-** Italic: \textit{}
+- Bold: \textbf{}
+- Italic: \textit{}
 * Quotes
-** \begin{quote}{}\end{quote}
+- \begin{quote}{}\end{quote}
 * Footnotes
-** \footnote{}
+- \footnote{}
 * Lists
-** Bullet points: \begin{itemzie}{\item A}\end{itemize}
-** Number points: \begin{enumerate}{\item A}\end{enumerate}
+- Bullet points: \begin{itemzie}{\item A}\end{itemize}
+- Number points: \begin{enumerate}{\item A}\end{enumerate}
 * Links
-** Insert link: \url{www.google.com}
+- Insert link: \url{www.google.com}
 * Comment
-** Everything on a line followed by a % is a comment
-*** % This is a comment
+- Everything on a line followed by a % is a comment
+- % This is a comment
 * Todo notes
-** \todo{}
+- \todo{}
